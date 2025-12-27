@@ -5,8 +5,7 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 
 # 💼 Professional Experience
 
-
-## U+F662 PayPal – Bengaluru, India  
+## PayPal – Bengaluru, India  
 **Senior Software Engineer (SDE-III)** | *Apr 2025 – Present*  
 **Senior Software Engineer (SDE-II)** | *Sep 2022 – Apr 2025*  
 
