@@ -1,10 +1,10 @@
 # 💫 About Me:
----
+
 I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architecting intelligent, scalable, and high-performing fintech solutions. With over seven years of hands-on experience in mobile, AI-driven architectures, and secure payments, I specialize in transforming digital payment ecosystems through innovation, automation, and user-centric design.
 
 
 # 💼 Professional Experience
----
+
 
 ## 🧠 PayPal – Bengaluru, India  
 **Senior Software Engineer (SDE-III)** | *Apr 2025 – Present*  
@@ -23,7 +23,6 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 - **Revenue and UI Growth Driver:** Redesigned Transaction Details delivering **$800K+** in incremental revenue and **42%** more user satisfaction.  
 - **DevOps Efficiency Champion:** Improved CI/CD efficiency for **3× faster deployments** and reduced build times by **73%**.  
 
----
 
 ## 💳 Paytm Payments Bank – Noida, India  
 **Senior Software Engineer** | *Apr 2022 – Sep 2022*  
@@ -37,7 +36,6 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 - **Performance Optimization:** Reduced app size, improved performance, and enhanced maintainability through systematic refactoring.  
 - **UPI Expansion:** Contributed to **UPI Lite** and cross-border payment modules with **99.9% uptime**.  
 
----
 
 ## 🚗 Jugnoo – Chandigarh, India  
 **Software Engineer** | *Apr 2019 – Jan 2021*  
@@ -47,7 +45,6 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 - **Google API Integration:** Integrated Maps, Places, and Payments APIs for scalable consumer experiences.  
 - **Marketplace Developer:** Helped design and deliver Grocery and Delivery platforms from scratch.  
 
----
 
 ## 🧱 ChicMic – Mohali, India  
 **Associate Software Engineer** | *Jan 2018 – Apr 2019*  
@@ -57,7 +54,6 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 - Built **Biometric Authentication SDKs**, **ARKit**, and **OpenCV-based** features.  
 - Early adopter of hybrid **Swift–Java architecture** for next-gen mobile SDK innovation.  
 
----
 
 # 🧠 Technical Skills
 
@@ -71,23 +67,12 @@ I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architect
 | **Domains** | Fintech, UPI, Payments, Rewards, Mobile Security |
 | **Leadership** | Technical Mentoring, Innovation Strategy, AI-driven Development |
 
----
 
 # 🏆 Career Highlights
 - 7+ years of *end-to-end mobile and fintech system design* experience.  
 - Architected PayPal’s **AI-powered mobile platform** initiative.  
 - Proven success converting **AI innovation into business ROI**.  
 - Known for *technical mentorship* and *scalable mobile architecture leadership*.  
-
----
-
-# 🌐 Connect with Me
-
-🌍 **GitHub:** [github.com/yourprofile](#)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-✉️ **Email:** [your.email@example.com](#)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mocgurwinder) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mocgurwinder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mocgurwinder@gmail.com) 
