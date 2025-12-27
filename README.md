@@ -1,6 +1,7 @@
 # 💫 About Me:
-I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architecting intelligent, scalable, and high-performing fintech solutions. With over seven years of hands-on experience in mobile, AI-driven architectures, and secure payments, I specialize in transforming digital payment ecosystems through innovation, automation, and user-centric design.
 ---
+I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architecting intelligent, scalable, and high-performing fintech solutions. With over seven years of hands-on experience in mobile, AI-driven architectures, and secure payments, I specialize in transforming digital payment ecosystems through innovation, automation, and user-centric design.
+
 
 # 💼 Professional Experience
 ---
