@@ -1,5 +1,89 @@
 # 💫 About Me:
-I’m a Senior Software Engineer (SDE-III) at PayPal, passionate about architecting intelligent, scalable, and high-performing fintech solutions. With over seven years of hands-on experience in mobile, AI-driven architectures, and secure payments, I specialize in transforming digital payment ecosystems through innovation, automation, and user-centric design.<br><br>💼 Professional Experience<br><br>🧠 PayPal – Bengaluru, India<br><br>Senior Software Engineer (SDE-III) | Apr 2025 – Present<br>Senior Software Engineer (SDE-II) | Sep 2022 – Apr 2025<br><br>Key Contributions:<br><br>AI Innovation Lead: Driving PayPal’s AI-first digital transformation, designing intelligent systems to redefine mobile payment experiences and accelerate business growth.<br><br>Server-Driven AI Architecture: Architected proprietary Model Context Protocol (MCP) server modules that improved user engagement and accessibility by 40% across mobile platforms.<br><br>Automated QA using AI: Created a machine learning–powered testing framework that reduced QA cycles by 65% and increased test coverage to 98%, setting new reliability standards for fintech apps.<br><br>Cross-Platform Modernization Leader: Orchestrated PayPal’s migration from native apps to a server-driven UI platform, cutting code maintenance by 70% and improving delivery speed by 2.5x.<br><br>AI-Driven Quality Transformation: Implemented predictive QA and anomaly detection systems that lowered QA costs by 32%, while boosting platform security and reliability metrics above industry benchmarks.<br><br>Mobile Performance Architect: Led refactoring initiatives that delivered 45% faster load times and 30% higher user satisfaction across flagship products.<br><br>AI Innovation Coach: Mentored 50+ engineers in integrating GenAI tools and automation frameworks; 90% of mentees adopted AI solutions that delivered measurable ROI.<br><br>Rewards Experience Architect: Unified Rewards Point Systems across Widgets, Ledger, and Search, leading to a 37% spike in engagement and a smoother user journey.<br><br>Payment Security Specialist: Engineered enterprise-grade encryption and authentication layers for high-value transactions, achieving zero vulnerabilities during audits.<br><br>Revenue Impact Builder: Redesigned Transaction Detail architecture, contributing to $800K+ in incremental revenue through enhanced feature discoverability and conversion rate optimization.<br><br>DevOps Efficiency Champion: Streamlined CI/CD pipelines for 3× faster deployments, reducing build times by 73%.<br><br>💳 Paytm Payments Bank – Noida, India<br><br>Senior Software Engineer | Apr 2022 – Sep 2022<br>Software Engineer | Jan 2021 – Apr 2022<br><br>Key Contributions:<br><br>Fintech Platform Engineer: Developed and optimized secure payment flows for India’s leading mobile payment app, handling UPI P2P, P2M, and automatic recurring payments.<br><br>Offline Payment Innovator: Designed UPI Mapper for offline transactions, ensuring reliability in low-connectivity conditions across mobile payment SDKs.<br><br>Payment SDK Architect: Engineered modular UPI SDKs enabling easy integration across diverse merchant platforms and devices.<br><br>Automation & QA Leader: Increased test coverage and code reliability using JUnit, Mockito, Espresso, and Robolectric frameworks.<br><br>Performance Optimization: Achieved substantial improvements in app performance, size reduction, and code maintainability through systematic refactoring.<br><br>UPI Lite & International Payments: Helped launch advanced UPI features for micro-transactions and cross-border transfers with 99.9% uptime.<br><br>🚗 Jugnoo – Chandigarh, India<br><br>Software Engineer | Apr 2019 – Jan 2021<br><br>Key Contributions:<br><br>Android Mobility Specialist: Developed and maintained large-scale mobility verticals including CarPool, Shuttle, and P2P Vehicle Rental modules.<br><br>API Integration Expert: Integrated Google APIs for live location tracking, real-time pricing, and optimized navigation experiences.<br><br>Marketplace Expansion: Developed Grocery and Delivery verticals, contributing to platform diversification and higher transactional volumes.<br><br>🧩 ChicMic – Mohali, India<br><br>Associate Software Engineer | Jan 2018 – Apr 2019<br><br>Key Contributions:<br><br>Android Developer: Delivered multiple marketplace and grocery delivery apps from scratch.<br><br>R&D Projects: Built SDKs for Biometric Authentication, Computer Vision (OpenCV), and Augmented Reality (ARKit).<br><br>Innovation Mindset: Recognized for implementing modern tech stacks early (Swift/Java hybrid architecture, AR SDKs).<br><br>🧠 Technical Skills<br><br>Category	Skills<br><br>Programming Languages: Kotlin, Swift, Java, Python<br><br>Mobile & Frameworks: Android, React Native, Jetpack, Spring Boot<br><br>AI & Automation: 	GenAI Integration, Model Context Protocol, ML Testing Frameworks<br>Architecture	Server-Driven UI, Microservices, Modular SDK Design, CI/CD Automation<br>Cloud & Tools	AWS, Firebase, Docker, Jenkins, Grafana, GitHub Actions<br>Core Domains	Fintech, UPI, Payments, Rewards, Mobile Security<br><br>Leadership:Technical Mentorship, Innovation Strategy, Cross-Functional Collaboration<br><br>🏆 Career Highlights<br><br>7+ years of end-to-end mobile & fintech system design expertise.<br><br>Architect of PayPal’s AI-powered next-gen mobile platform initiative.<br><br>Proven success in turning AI innovation into tangible business growth.<br><br>Reputation for leading high-velocity teams delivering secure, cutting-edge fintech experiences.
+# 💼 Professional Experience
+
+---
+
+## 🧠 PayPal – Bengaluru, India  
+**Senior Software Engineer (SDE-III)** | *Apr 2025 – Present*  
+**Senior Software Engineer (SDE-II)** | *Sep 2022 – Apr 2025*  
+
+### 🏗️ Key Contributions
+- **AI Innovation Lead:** Driving PayPal’s *AI-first digital transformation*, building intelligent systems that redefine mobile payment experiences and accelerate growth.  
+- **Server-Driven AI Architecture:** Designed proprietary **Model Context Protocol (MCP) Server Modules**, improving engagement and accessibility by **40%** across PayPal’s mobile platforms.  
+- **AI-Powered Testing Automation:** Developed an ML-based testing framework that cut QA cycles by **65%** and achieved **98%** test coverage.  
+- **Cross-Platform Modernization:** Migrated PayPal’s mobile apps to a **server-driven UI platform**, reducing code maintenance by **70%** and accelerating feature delivery by **2.5×**.  
+- **AI Quality Transformation:** Designed a *predictive testing and anomaly detection* system lowering QA costs by **32%** while boosting reliability and compliance.  
+- **Performance Engineering:** Refactored mobile stack for **45% faster performance** and **30% higher user satisfaction**.  
+- **AI Innovation Coach:** Mentored 50+ engineers in *GenAI and automation best practices*—**90%** of teams implemented solutions delivering measurable ROI.  
+- **Rewards Experience Architect:** Unified Rewards System across Widget, Ledger, and Search modules, increasing engagement by **37%**.  
+- **Payment Security Specialist:** Delivered enterprise-level encryption/authentication with **zero vulnerabilities** in annual audits.  
+- **Revenue and UI Growth Driver:** Redesigned Transaction Details delivering **$800K+** in incremental revenue and **42%** more user satisfaction.  
+- **DevOps Efficiency Champion:** Improved CI/CD efficiency for **3× faster deployments** and reduced build times by **73%**.  
+
+---
+
+## 💳 Paytm Payments Bank – Noida, India  
+**Senior Software Engineer** | *Apr 2022 – Sep 2022*  
+**Software Engineer** | *Jan 2021 – Apr 2022*  
+
+### ⚙️ Key Contributions
+- **Fintech Platform Engineer:** Developed secure payment architecture for India’s most-used payments app—supporting **UPI P2P**, **P2M**, and recurring payments.  
+- **Offline Payment Innovator:** Designed **UPI Mapper** enabling offline transactions across SDKs.  
+- **SDK Architect:** Created modular **UPI SDKs** adopted across multiple merchant apps.  
+- **Automation & QA:** Increased code reliability with **JUnit, Mockito, Espresso**, and **Robolectric** frameworks.  
+- **Performance Optimization:** Reduced app size, improved performance, and enhanced maintainability through systematic refactoring.  
+- **UPI Expansion:** Contributed to **UPI Lite** and cross-border payment modules with **99.9% uptime**.  
+
+---
+
+## 🚗 Jugnoo – Chandigarh, India  
+**Software Engineer** | *Apr 2019 – Jan 2021*  
+
+### 🧩 Key Contributions
+- **Android Mobility Specialist:** Developed large-scale verticals—CarPool, Shuttle, and P2P Vehicle Rental.  
+- **Google API Integration:** Integrated Maps, Places, and Payments APIs for scalable consumer experiences.  
+- **Marketplace Developer:** Helped design and deliver Grocery and Delivery platforms from scratch.  
+
+---
+
+## 🧱 ChicMic – Mohali, India  
+**Associate Software Engineer** | *Jan 2018 – Apr 2019*  
+
+### 🔬 Key Contributions
+- Developed **Grocery, Marketplace, and Delivery** Android apps from end to end.  
+- Built **Biometric Authentication SDKs**, **ARKit**, and **OpenCV-based** features.  
+- Early adopter of hybrid **Swift–Java architecture** for next-gen mobile SDK innovation.  
+
+---
+
+# 🧠 Technical Skills
+
+| **Category** | **Skills** |
+|---------------|------------|
+| **Languages** | Kotlin, Swift, Java, Python |
+| **Frameworks** | Android, React Native, Jetpack, Spring Boot |
+| **AI & Automation** | GenAI Integration, Model Context Protocol, ML Testing Frameworks |
+| **Architecture** | Server-Driven UI, Microservices, Modular SDK Design, CI/CD |
+| **Cloud & Tools** | AWS, Firebase, Docker, Jenkins, Grafana |
+| **Domains** | Fintech, UPI, Payments, Rewards, Mobile Security |
+| **Leadership** | Technical Mentoring, Innovation Strategy, AI-driven Development |
+
+---
+
+# 🏆 Career Highlights
+- 7+ years of *end-to-end mobile and fintech system design* experience.  
+- Architected PayPal’s **AI-powered mobile platform** initiative.  
+- Proven success converting **AI innovation into business ROI**.  
+- Known for *technical mentorship* and *scalable mobile architecture leadership*.  
+
+---
+
+# 🌐 Connect with Me
+
+🌍 **GitHub:** [github.com/yourprofile](#)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+✉️ **Email:** [your.email@example.com](#)
+
 
 
 ## 🌐 Socials:
